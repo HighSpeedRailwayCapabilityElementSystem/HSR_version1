@@ -3,6 +3,7 @@
 高速铁路能力要素管理信息系统使用说明书
 一、高速铁路能力要素管理信息系统登录界面：
 点击桌面高速铁路能力要素mis系统.exe文件，进入系统登陆界面，如图1-1所示。
+![图1-1](https://github.com/HighSpeedRailwayCapabilityElementSystem/HSR_version1/blob/master/21efaf9969553dcef75fbbbde1c9bcc.png)
 图1-1高速铁路能力要素管理信息系统登陆界面
 系统登陆架构需要输入用户名和密码进行登陆，其界面设计如图4-2所示，用户名和密码现阶段仅限指定用户登录，若输入错误，则无法登陆。
 二、高速铁路能力要素管理信息系统主界面：
