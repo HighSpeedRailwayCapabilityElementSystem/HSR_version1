@@ -13,7 +13,7 @@ using System.Threading;
 using Demo1;
 using System.Runtime.InteropServices;
 using Winform.Animation.Train;
-using WebKit;
+//using WebKit;
 
 namespace HighspeedNetworkEchartsTest1
 {
@@ -45,18 +45,18 @@ namespace HighspeedNetworkEchartsTest1
             //System.Diagnostics.Process.Start("Chrome.exe", path);
             webBrowser1.Navigate(path);
             webBrowser2.ScriptErrorsSuppressed = true;
-            string path2 = "F:\\CSharpCode\\RailStudy0126\\HighspeedNetworkEchartsTest3\\bin\\Debug\\web5.html";
+            string path2 = "F:\\leafletTest\\web5.html";
             webBrowser2.Navigate(path2);
            
 
             webBrowser3.ScriptErrorsSuppressed = true;
-            string path3 = "F:\\CSharpCode\\RailStudy0126\\HighspeedNetworkEchartsTest3\\bin\\Debug\\web3.html";
+            string path3 = "F:\\leafletTest\\web3.html";
             webBrowser3.Navigate(path3);
             webBrowser4.ScriptErrorsSuppressed = true;
-            string path4 = "F:\\CSharpCode\\RailStudy0126\\HighspeedNetworkEchartsTest3\\bin\\Debug\\web3-1.html";
+            string path4 = "F:\\leafletTest\\web3-1.html";
             webBrowser4.Navigate(path4);
             webBrowser5.ScriptErrorsSuppressed = true;
-            string path5 = "F:\\CSharpCode\\RailStudy0126\\HighspeedNetworkEchartsTest3\\bin\\Debug\\web4.html";
+            string path5 = "F:\\leafletTest\\web4.html";
             webBrowser5.Navigate(path5);
 
          //   skinEngine1.SkinFile = System.Environment.CurrentDirectory + "\\Skins\\RealOne.ssk";　　//选择皮肤文件
@@ -112,7 +112,8 @@ namespace HighspeedNetworkEchartsTest1
             string path2 = "F:\\leafletTest\\Beijingnanzhan-table.html";
             webBrowser2.Navigate(path2);
             webBrowser3.ScriptErrorsSuppressed = true;
-            string path3 = "F:\\CSharpCode\\RailStudy0126\\HighspeedNetworkEchartsTest3\\bin\\Debug\\web3.html";
+            string path3 = "F:\\leafletTest\\web3.html";
+            //string path3 = "F:\\CSharpCode\\RailStudy0126\\HighspeedNetworkEchartsTest3\\bin\\Debug\\web3.html";
             webBrowser3.Navigate(path3);
             webBrowser4.ScriptErrorsSuppressed = true;
             string path4 = "F:\\leafletTest\\Beijingnanstation\\Beijingnanzhan-pic.html";
